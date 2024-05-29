@@ -1,1 +1,1 @@
-coleção de arquivos feitos por mim na linguagem C
+Este repositório é uma coleção de arquivos desenvolvidos por mim na linguagem C.
